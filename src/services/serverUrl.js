@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://projectserver-pfkq.onrender.com"
